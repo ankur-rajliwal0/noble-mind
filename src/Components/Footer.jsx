@@ -82,7 +82,7 @@ function Footer() {
             </div>
           </div>
         </div>
-        <div className="block bg-[#A158EA] h-[1px] w-[455px]"></div>
+        <div className="block bg-[#A158EA] h-[1px] w-full"></div>
       </div>
     </section>
   );
