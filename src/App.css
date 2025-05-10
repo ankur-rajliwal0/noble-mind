@@ -21,3 +21,6 @@
 .left-00 {
   left: -100% !important;
 }
+.container-bg {
+  background: linear-gradient(130.88deg, #a854e9 -9.14%, #4f91fc 283.16%);
+}

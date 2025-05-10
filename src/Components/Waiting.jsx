@@ -6,7 +6,7 @@ function Waiting() {
   return (
     <section className="">
       <div className="container">
-        <div className="mt-[152px] mb-[148px] btn-bg relative rounded-[16px] flex  flex-col  items-center py-[80px] max-md:mt-[20px] max-md:mb-[30px]">
+        <div className="mt-[152px] mb-[148px] container-bg relative rounded-[16px] flex  flex-col  items-center py-[80px] max-md:mt-[20px] max-md:mb-[30px]">
           <img src={uparlayer} alt="" className=" absolute top-0" />
           <img src={dowmlayer} alt="" className=" absolute bottom-0  " />
           <h3 className="text-[48px] font-Plus_Jakarta font-bold text-center text-white max-md:text-[25px]">
